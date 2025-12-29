@@ -325,3 +325,4 @@ n["@superduperbeans"] =  {"superduperbeans", "|cfe0045s|r|cfd0142u|r|cfc0140p|r|
 n["@Perseus001"] = {"Perseus", "|cff4eecP|r|cff6cefe|r|cff89f2r|r|cffa7f6s|r|cffc4f9e|r|cffe2fcu|r|cffffffs|r"}
 n["@Snow-Moon"] = {"Snow-Moon", "|c5a00aaS|r|c5600a6n|r|c5300a3o|r|c4f00a0w|r|c4c009c-|r|c480099M|r|c450096o|r|c410092o|r|c3e008fn|r"}
 n["@Ivcsi"] = {"Ivcsi", "|c659feaI|r|c8b77d5v|r|cb250c1c|r|cd828acs|r|cff0097i|r"}
+n["@Diocliate"] = {"Dїõ", "|cffbf00D|r|cff9800ї|r|cff7000õ|r"}
